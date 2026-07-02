@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Albert Einstein",
+    "field": "Physics",
+    "nationality": "German",
+    "birthYear": 1879,
+    "famousFor": "Theory of Relativity"
+  },
+  {
+    "id": 2,
+    "name": "Isaac Newton",
+    "field": "Physics",
+    "nationality": "English",
+    "birthYear": 1643,
+    "famousFor": "Laws of Motion"
+  },
+  {
+    "id": 3,
+    "name": "Marie Curie",
+    "field": "Chemistry",
+    "nationality": "Polish",
+    "birthYear": 1867,
+    "famousFor": "Research on Radioactivity"
+  },
+  {
+    "id": 4,
+    "name": "Galileo Galilei",
+    "field": "Astronomy",
+    "nationality": "Italian",
+    "birthYear": 1564,
+    "famousFor": "Improvements to the Telescope"
+  },
+  {
+    "id": 5,
+    "name": "Charles Darwin",
+    "field": "Biology",
+    "nationality": "English",
+    "birthYear": 1809,
+    "famousFor": "Theory of Evolution"
+  },
+  {
+    "id": 6,
+    "name": "Nikola Tesla",
+    "field": "Electrical Engineering",
+    "nationality": "Serbian-American",
+    "birthYear": 1856,
+    "famousFor": "Alternating Current (AC)"
+  },
+  {
+    "id": 7,
+    "name": "Stephen Hawking",
+    "field": "Physics",
+    "nationality": "British",
+    "birthYear": 1942,
+    "famousFor": "Black Hole Research"
+  },
+  {
+    "id": 8,
+    "name": "Rosalind Franklin",
+    "field": "Chemistry",
+    "nationality": "British",
+    "birthYear": 1920,
+    "famousFor": "DNA Structure Research"
+  },
+  {
+    "id": 9,
+    "name": "Louis Pasteur",
+    "field": "Microbiology",
+    "nationality": "French",
+    "birthYear": 1822,
+    "famousFor": "Pasteurization"
+  },
+  {
+    "id": 10,
+    "name": "Gregor Mendel",
+    "field": "Genetics",
+    "nationality": "Austrian",
+    "birthYear": 1822,
+    "famousFor": "Laws of Inheritance"
+  }
+]
